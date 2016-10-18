@@ -1,3 +1,3 @@
 # A colorful note-taking app 
 
-###class assignment using lynda.com 
+a class assignment using lynda.com 
